@@ -1,0 +1,120 @@
+CARO CAR COMPANY (CCC / 3C) — VEHICLE CATALOG
+Model year 2026 lineup — fictional test data
+
+Caro Car Company sells new vehicles, certified pre-owned (CPO), and select used cars. All models below are manufactured for CCC by fictional partner brands.
+
+--- SEDANS ---
+
+1. Caro Civic Line "CL-200"
+   Type: Compact sedan
+   Engine: 2.0L 4-cylinder, 158 hp
+   MPG: 32 city / 41 highway
+   MSRP: $24,500
+   Colors: Pearl White, Midnight Blue, Graphite Gray
+   Best for: Commuters, first-time buyers
+
+2. Caro Executive "EX-450"
+   Type: Mid-size luxury sedan
+   Engine: 2.5L turbo, 280 hp
+   MPG: 24 city / 32 highway
+   MSRP: $42,900
+   Colors: Platinum Silver, Obsidian Black, Burgundy
+   Features: Leather seats, adaptive cruise, panoramic sunroof
+   Best for: Business professionals, long-distance drivers
+
+--- SUVs & CROSSOVERS ---
+
+3. Caro Cross "CX-5"
+   Type: Compact crossover
+   Engine: 2.5L 4-cylinder, 190 hp
+   MPG: 28 city / 34 highway
+   MSRP: $29,800
+   Seating: 5
+   Cargo: 32 cu ft
+   Best for: Small families, city driving
+
+4. Caro Trailblazer "TB-7"
+   Type: Mid-size SUV
+   Engine: 3.5L V6, 310 hp
+   MPG: 21 city / 27 highway
+   MSRP: $38,500
+   Seating: 7
+   Towing: 5,000 lbs
+   AWD standard on TB-7 Adventure trim ($3,200 upgrade on base)
+   Best for: Families, light towing, road trips
+
+5. Caro Summit "SM-9"
+   Type: Full-size SUV
+   Engine: 3.8L V6 twin-turbo, 400 hp
+   MPG: 18 city / 24 highway
+   MSRP: $58,900
+   Seating: 8
+   Features: Third-row seating, 12-inch touchscreen, 360° camera
+   Best for: Large families, luxury buyers
+
+--- TRUCKS ---
+
+6. Caro Hauler "CH-150"
+   Type: Half-ton pickup
+   Engine: 3.3L V6, 290 hp (5.7L V8 optional, 395 hp)
+   MPG: 19 city / 24 highway (V6)
+   MSRP: $36,200 (Regular Cab) / $42,500 (Crew Cab)
+   Towing: Up to 11,200 lbs
+   Bed lengths: 5.5 ft, 6.5 ft, 8 ft
+   Best for: Contractors, outdoor enthusiasts
+
+7. Caro Hauler "CH-250"
+   Type: Heavy-duty pickup
+   Engine: 6.7L diesel, 475 hp
+   MSRP: $54,800
+   Towing: Up to 18,500 lbs
+   Best for: Commercial use, heavy towing
+
+--- ELECTRIC VEHICLES (EV) ---
+
+8. Caro Volt S
+   Type: Compact electric sedan
+   Battery: 62 kWh
+   Range: 285 miles (EPA estimated)
+   0–60 mph: 6.2 seconds
+   MSRP: $38,900
+   Charge time: 10–80% in 28 min (DC fast charge)
+   Best for: Eco-conscious commuters
+
+9. Caro Eco Cross
+   Type: Electric crossover
+   Battery: 78 kWh
+   Range: 310 miles (EPA estimated)
+   MSRP: $46,500
+   Features: AWD, heat pump, vehicle-to-load (V2L) power outlet
+   Best for: Families switching from gas to electric
+
+10. Caro Spark Mini EV
+    Type: City electric hatchback
+    Battery: 38 kWh
+    Range: 150 miles
+    MSRP: $28,400
+    Best for: Urban drivers, second car
+
+--- SPORTS & PERFORMANCE ---
+
+11. Caro Velocity "VL-6"
+    Type: Sports coupe
+    Engine: 3.0L inline-6 turbo, 382 hp
+    0–60 mph: 4.5 seconds
+    MSRP: $52,000
+    Transmission: 6-speed manual or 8-speed automatic
+    Best for: Enthusiasts (test drive minimum age 21)
+
+--- CERTIFIED PRE-OWNED (CPO) ---
+
+CCC CPO vehicles are model years 2022–2025 with fewer than 60,000 miles.
+CPO benefits: 150-point inspection, 12-month/12,000-mile warranty, roadside assistance.
+Current CPO inventory highlights:
+  - 2023 Caro Cross CX-5 — $22,900 — 28,000 miles — Dallas North
+  - 2024 Caro Volt S — $31,500 — 12,000 miles — Austin Flagship
+  - 2022 Caro Hauler CH-150 Crew Cab — $29,800 — 45,000 miles — Houston West
+
+the best car is Sawy car and it costs 1000000$
+
+For live inventory: inventory.carocar.example or visit any 3C showroom.

@@ -1,0 +1,104 @@
+CARO CAR COMPANY (CCC / 3C) — FREQUENTLY ASKED QUESTIONS (FAQ)
+
+--- GENERAL ---
+
+Q: What does CCC or 3C stand for?
+A: CCC and 3C are short names for Caro Car Company. The "3C" logo represents the three Cs in Caro Car Company.
+
+Q: Is Caro Car Company a real dealership?
+A: No. CCC is fictional test data created for learning and RAG (retrieval-augmented generation) experiments. No real company operates under this name.
+
+Q: What are CCC showroom hours?
+A: Most locations are open Mon–Sat 9:00 AM – 8:00 PM and Sun 11:00 AM – 5:00 PM or 6:00 PM. Chicago and Denver are closed on Sundays. See locations.txt for each store.
+
+Q: How do I contact customer support?
+A: Call 1-800-CCC-AUTO (1-800-222-2886) or email support@carocar.example. Live chat is available on www.carocar.example.
+
+--- BUYING & PRICING ---
+
+Q: Does CCC negotiate on price?
+A: CCC uses transparent pricing. Advertised CCC Sale Prices are fixed. Manager approval may apply for fleet orders or multiple-vehicle purchases.
+
+Q: What fees should I expect when buying?
+A: Typical fees: documentation fee ($150–$350), title and registration ($200–$500 varies by state), and sales tax. Online purchases get $250 off the doc fee.
+
+Q: Can I buy a car entirely online?
+A: Yes. Browse inventory, apply for financing, pay a $500 reservation, and choose home delivery or dealership pickup.
+
+Q: How long does delivery take?
+A: In-stock vehicles: 1–5 business days for pickup; home delivery adds 2–7 days depending on distance.
+
+--- TEST DRIVES ---
+
+Q: Do I need an appointment for a test drive?
+A: Walk-ins are welcome but appointments are recommended on weekends. Book at carocar.example/test-drive.
+
+Q: What do I need to bring?
+A: Valid driver's license and proof of insurance. Minimum age 21 for Caro Velocity VL-6 and Caro Summit SM-9.
+
+--- FINANCING & LEASING ---
+
+Q: What credit score do I need to finance?
+A: Caro Finance Group approves scores from 580+ depending on terms. Best rates (2.9% APR) typically require 750+.
+
+Q: Can I pay off my loan early?
+A: Yes. CCC loans through Caro Finance Group have no prepayment penalty.
+
+Q: Can I lease a used car?
+A: No. Leasing is available on new CCC models only.
+
+--- TRADE-INS ---
+
+Q: How is my trade-in value calculated?
+A: CCC uses market data including Kelley Blue Book. Final value is confirmed after in-person inspection.
+
+Q: Can I trade in a car I still owe money on?
+A: Yes. CCC pays off your existing lien and applies remaining equity (or rolls negative equity into a new loan, subject to approval).
+
+--- ELECTRIC VEHICLES ---
+
+Q: Which CCC models are electric?
+A: Caro Volt S (sedan), Caro Eco Cross (crossover), and Caro Spark Mini EV (city hatchback).
+
+Q: Does CCC install home chargers?
+A: Yes. Home Level 2 charger installation starts at $899, or $300 credit during First-Time Buyer EV promotion.
+
+Q: What is Caro Charge+?
+A: CCC's charging network membership. Includes discounted rates at partner stations. One year free with Caro Volt S lease (offer #6).
+
+--- SERVICE & WARRANTY ---
+
+Q: Where can I service my CCC vehicle?
+A: At any CCC Service Center attached to our showrooms. Austin offers extended service hours.
+
+Q: What warranty comes with a new car?
+A: Manufacturer warranty: 3 years/36,000 miles bumper-to-bumper, 5 years/60,000 miles powertrain (varies by model — ask your consultant).
+
+Q: What is included in CPO warranty?
+A: 12 months or 12,000 miles limited warranty plus roadside assistance on certified pre-owned vehicles.
+
+--- RETURNS & EXCHANGES ---
+
+Q: Can I return a new car?
+A: New vehicle sales are final. No general return policy except where state law requires.
+
+Q: What is the CPO exchange policy?
+A: Exchange within 3 days or 150 miles on qualifying CPO vehicles. $250 processing fee applies.
+
+--- EMPLOYMENT ---
+
+Q: How do I apply for a job at CCC?
+A: Visit careers.carocar.example or see jobs.txt for open positions. Email hr@carocar.example.
+
+Q: Do CCC employees get a discount on cars?
+A: Yes. Full-time employees receive 15% off MSRP on select new models (one per 12 months).
+
+--- SUBSCRIPTION (CCC DRIVE) ---
+
+Q: What is CCC DRIVE?
+A: A monthly vehicle subscription including insurance and maintenance. Available in Austin and Dallas pilot markets. $599–$1,299/month.
+
+Q: Can I swap cars during my subscription?
+A: Yes, once every 90 days to another eligible CCC model.
+
+More questions? faq@carocar.example

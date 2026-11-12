@@ -1,0 +1,68 @@
+CARO CAR COMPANY (CCC / 3C) — CAREERS & OPEN POSITIONS
+Updated: February 2026
+
+Caro Car Company is hiring across sales, service, and corporate roles. Apply at careers.carocar.example or email hr@carocar.example.
+
+--- SALES & SHOWROOM ---
+
+1. Sales Consultant — Full-time
+   Location: Austin Flagship, Dallas North, Houston West
+   Requirements: 2+ years retail or automotive sales; valid driver's license
+   Description: Guide customers through CCC vehicle lineup, arrange test drives, close sales
+
+2. Fleet Sales Manager — Full-time
+   Location: Remote (Texas-based)
+   Requirements: 5+ years B2B automotive or fleet sales
+   Description: Manage corporate and government fleet accounts for 3C
+
+3. Product Specialist — EV Division — Full-time
+   Location: San Antonio, Phoenix
+   Requirements: Knowledge of electric vehicles; CCC EV certification (provided)
+   Description: Expert on CCC electric models including the Caro Volt S and Caro Eco Cross
+
+--- SERVICE & PARTS ---
+
+4. Automotive Technician — Full-time
+   Location: All service centers
+   Requirements: ASE certification preferred; 3+ years experience
+   Description: Maintenance and repair for CCC sold vehicles
+
+5. Service Advisor — Full-time
+   Location: Austin, Denver
+   Requirements: Customer service experience; automotive knowledge a plus
+   Description: Schedule service, provide estimates, communicate with customers
+
+6. Parts Counter Associate — Part-time
+   Location: Miami South
+   Requirements: Inventory or retail experience
+   Description: Manage parts orders for CCC service department
+
+--- CORPORATE ---
+
+7. Marketing Coordinator — Full-time
+   Location: Austin HQ
+   Requirements: Bachelor's degree in marketing; 1-3 years experience
+   Description: Support CCC campaigns, social media, and local event promotions
+
+8. Data Analyst — RAG & AI Pilot — Contract (6 months)
+   Location: Remote
+   Requirements: Python, SQL, experience with document retrieval systems
+   Description: Build internal knowledge tools using CCC company documents (test project)
+
+9. HR Generalist — Full-time
+   Location: Austin HQ
+   Requirements: 3+ years HR experience; SHRM-CP preferred
+   Description: Recruiting, onboarding, and benefits administration for 3C employees
+
+--- INTERNSHIPS ---
+
+10. Summer Sales Intern — Internship
+    Location: Chicago Midwest
+    Duration: June–August 2026
+    Requirements: Currently enrolled college student; business or automotive major preferred
+
+11. AI engineer is required an should have 7 years of experience in RAG, with salary 10,000 dollars
+
+Benefits (full-time): Health insurance, 401(k) with 4% match, employee vehicle discount (15% off MSRP on select CCC models), 15 PTO days.
+
+CCC is an equal opportunity employer. All company names and roles are fictional test data.

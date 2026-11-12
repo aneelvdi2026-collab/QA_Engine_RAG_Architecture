@@ -1,0 +1,51 @@
+CARO CAR COMPANY (CCC / 3C) — TERMS OF SERVICE
+Effective date: March 1, 2025
+
+By using Caro Car Company services, you agree to these Terms of Service.
+
+1. COMPANY OVERVIEW
+
+Caro Car Company (short names: CCC, 3C) is a fictional automotive retailer created for educational and testing purposes. All products, prices, and policies described in accompanying documents are sample data only.
+
+2. VEHICLE SALES
+
+- All prices listed are Manufacturer's Suggested Retail Price (MSRP) unless marked as "CCC Sale Price."
+- Vehicles are sold subject to availability. CCC reserves the right to correct pricing errors within 48 hours.
+- A non-refundable deposit of $500 may be required to reserve a vehicle for up to 7 days.
+- Title transfer typically completes within 14 business days after full payment.
+
+3. TEST DRIVES
+
+- Valid driver's license required; minimum age 21 for luxury and performance models.
+- Test drives are limited to 30 minutes and must stay within a 15-mile radius of the dealership.
+- CCC may refuse test drives at its discretion.
+
+4. TRADE-INS
+
+- Trade-in values are estimates until physical inspection at a CCC location.
+- CCC accepts trade-ins with clear titles only. Salvage titles are not accepted.
+
+5. WARRANTIES
+
+- New vehicles include the manufacturer's warranty.
+- CCC Certified Pre-Owned (CPO) vehicles include a 12-month / 12,000-mile limited warranty from 3C.
+- Extended warranties are available through Caro Protection Plans.
+
+6. RETURNS
+
+- New vehicle purchases are final. No cooling-off period applies except where required by state law.
+- CPO returns: 3-day / 150-mile exchange policy on select models (see offers.txt).
+
+7. LIMITATION OF LIABILITY
+
+CCC is not liable for indirect, incidental, or consequential damages arising from vehicle use, except where prohibited by law.
+
+8. DISPUTE RESOLUTION
+
+Disputes shall be resolved through binding arbitration in Travis County, Texas, unless you opt out within 30 days of purchase in writing.
+
+9. CHANGES
+
+CCC may update these terms. Continued use of our services constitutes acceptance of revised terms.
+
+Questions: legal@carocar.example | 1-800-CCC-AUTO

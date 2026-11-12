@@ -1,0 +1,18 @@
+[project]
+name = "fast-api-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.162.4",
+    "httpx>=0.28.1",
+    "langchain-huggingface>=1.2.3",
+    "openai>=3.49.0",
+    "pgvector>=0.5.1",
+    "psycopg2>=2.9.13",
+    "pydantic>=2.14.3",
+    "python-dotenv>=1.2.4",
+    "sentence-transformers>=6.3.0",
+    "uvicorn>=0.54.0",
+]

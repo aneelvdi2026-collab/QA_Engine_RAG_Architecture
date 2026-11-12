@@ -1,0 +1,104 @@
+CARO CAR COMPANY (CCC / 3C) — WARRANTY & SERVICE
+Service brand: CCC Service Centers
+
+--- NEW VEHICLE WARRANTIES (MANUFACTURER) ---
+
+All new Caro vehicles include factory coverage:
+
+Basic (Bumper-to-Bumper)
+  Duration: 3 years or 36,000 miles, whichever comes first
+  Covers: Most vehicle components except wear items (tires, brake pads, wiper blades)
+
+Powertrain
+  Duration: 5 years or 60,000 miles
+  Covers: Engine, transmission, drive axles, seals and gaskets
+
+EV Battery (Electric Models Only)
+  Duration: 8 years or 100,000 miles
+  Covers: Battery capacity retention — replacement if capacity falls below 70%
+  Applies to: Caro Volt S, Caro Eco Cross, Caro Spark Mini EV
+
+Corrosion
+  Duration: 5 years unlimited miles
+  Covers: Perforation from rust-through on body panels
+
+Roadside Assistance
+  Duration: 5 years or 60,000 miles
+  Includes: Towing (up to 50 miles), jump start, flat tire change, lockout service, fuel delivery (2 gallons)
+
+--- CERTIFIED PRE-OWNED (CPO) WARRANTY ---
+
+CCC adds limited coverage on top of any remaining factory warranty:
+
+3C CPO Limited Warranty
+  Duration: 12 months or 12,000 miles from purchase date
+  Covers: Engine, transmission, electrical, A/C, fuel system
+  Deductible: $100 per visit
+
+CPO Roadside Assistance
+  Duration: 12 months from purchase
+  Same benefits as new vehicle roadside program
+
+150-Point Inspection
+  Every CPO vehicle passes inspection covering mechanical, cosmetic, and history checks.
+  Vehicle history report provided free (Caro Vehicle History).
+
+--- OUTLET VEHICLES ---
+
+CCC Outlet (demo, rental fleet, cosmetic damage units):
+  90-day or 3,000-mile limited powertrain warranty
+  No bumper-to-bumper coverage
+  Sold as-is on cosmetic notes — disclosed at sale
+
+--- EXTENDED PROTECTION (OPTIONAL) ---
+
+Purchased through Caro Protection Plans at time of sale:
+
+Plan          | Coverage              | Term Options
+--------------|----------------------|---------------------------
+Bronze        | Powertrain only      | 3yr/36k or 5yr/60k
+Silver        | Powertrain + elec.   | 3yr/36k or 5yr/60k
+Gold          | Comprehensive        | 3yr/36k or 5yr/60k
+
+Rental reimbursement: $35/day up to 5 days during covered repairs (Gold plan only).
+
+--- ROUTINE MAINTENANCE ---
+
+Recommended intervals (gas models):
+  Oil change: Every 5,000 miles or 6 months
+  Tire rotation: Every 7,500 miles
+  Brake inspection: Every 15,000 miles
+  Transmission fluid: Every 60,000 miles
+
+EV maintenance:
+  Cabin air filter: Every 15,000 miles
+  Brake fluid: Every 3 years
+  Battery coolant: Inspect at 100,000 miles
+
+CCC Service Menu (approximate pricing):
+  Conventional oil change: $49.95
+  Synthetic oil change: $79.95
+  Tire rotation: $29.95
+  Multi-point inspection: Free with any service
+  EV diagnostic check: $89.95
+
+--- SERVICE APPOINTMENTS ---
+
+Book online: carocar.example/service
+Phone: 1-800-CCC-AUTO ext. 4
+Walk-in oil changes: Available at Texas locations (no appointment needed)
+
+Loaner vehicles: Available for warranty repairs over 4 hours (reserve in advance).
+Shuttle service: Free within 10 miles at all CCC Service Centers.
+
+--- PARTS & ACCESSORIES ---
+
+Genuine Caro parts carry 12-month/unlimited-mile warranty when installed at CCC Service Center.
+Popular accessories: All-weather floor mats ($129), roof rack ($349), tow hitch kit ($475–$695).
+
+--- CLAIMS ---
+
+Warranty claims: File at any CCC Service Center. Manager approval required for repairs over $500 on CPO warranty.
+Extended plan claims: Call Caro Protection Plans at (800) 555-0198.
+
+service@carocar.example

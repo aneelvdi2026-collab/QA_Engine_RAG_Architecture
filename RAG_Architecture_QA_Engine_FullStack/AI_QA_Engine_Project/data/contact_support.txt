@@ -1,0 +1,96 @@
+CARO CAR COMPANY (CCC / 3C) — CONTACT & CUSTOMER SUPPORT
+
+=== MAIN CONTACT ===
+
+Customer Service Line: 1-800-CCC-AUTO (1-800-222-2886)
+TTY: 1-800-555-0144
+Hours: Monday–Saturday 7:00 AM – 10:00 PM CT, Sunday 9:00 AM – 6:00 PM CT
+
+General Email: hello@carocar.example
+Website: www.carocar.example
+
+Headquarters:
+  Caro Car Company
+  100 Motorway Drive
+  Austin, TX 78701
+
+=== DEPARTMENT DIRECTORY ===
+
+Sales & Inventory
+  Email: sales@carocar.example
+  Text: (512) 555-0101 (Austin) — reply STOP to opt out
+  For: Quotes, availability, test drives, reservations
+
+Financing & Leasing
+  Email: finance@carocar.example
+  Phone ext: 3 (via main line)
+  Partner: Caro Finance Group — (512) 555-0199
+  For: Loan applications, lease questions, payment issues
+
+Trade-Ins
+  Email: tradein@carocar.example
+  Online estimator: www.carocar.example/trade-in
+
+Fleet & Corporate
+  Email: fleet@carocar.example
+  Contact: James Okafor, VP of Sales (fictional)
+  For: Orders of 5+ vehicles, government and business accounts
+
+Service & Repairs
+  Email: service@carocar.example
+  Phone ext: 4 (via main line)
+  Book appointments: www.carocar.example/service
+
+Parts & Accessories
+  Email: parts@carocar.example
+  Phone: (512) 555-0150 (Austin parts desk)
+
+Electric Vehicles (EV Support)
+  Email: ev@carocar.example
+  Phone: (512) 555-0177
+  For: Charging, home install, Caro Charge+ membership, battery questions
+
+Warranty & Protection Plans
+  Email: warranty@carocar.example
+  Caro Protection Plans claims: (800) 555-0198
+
+CCC DRIVE Subscription
+  Email: drive@carocar.example
+  Available: Austin and Dallas pilot only
+
+Human Resources / Careers
+  Email: hr@carocar.example
+  Careers portal: careers.carocar.example
+
+Legal & Privacy
+  Email: legal@carocar.example | privacy@carocar.example
+
+Promotions & Offers
+  Email: offers@carocar.example
+  Mention promo codes from offers.txt when contacting sales
+
+=== SOCIAL MEDIA (FICTIONAL) ===
+
+Twitter/X: @CaroCarCo
+Instagram: @carocarcompany
+Facebook: facebook.com/carocarcompany
+YouTube: Caro Car Company Official
+
+=== EMERGENCY ROADSIDE ===
+
+Included with new and CPO warranty coverage.
+Roadside hotline: 1-800-555-0175 (24/7)
+Services: Towing, jump start, flat tire, lockout, fuel delivery
+
+=== FEEDBACK & COMPLAINTS ===
+
+Customer satisfaction survey sent after purchase and service visits.
+Escalations: escalations@carocar.example
+Response time goal: 1 business day for email, immediate for phone during business hours
+
+=== MEDIA INQUIRIES ===
+
+press@carocar.example
+Note: CCC is fictional test data — no real press office exists.
+
+DISCLAIMER: All contact information in this document is fictional and for RAG testing only.

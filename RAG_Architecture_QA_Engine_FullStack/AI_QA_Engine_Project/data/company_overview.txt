@@ -1,0 +1,65 @@
+CARO CAR COMPANY (CCC / 3C) — COMPANY OVERVIEW
+Founded: 1987 | Headquarters: Austin, Texas
+Tagline: "Drive Forward with Caro"
+
+ABOUT US
+
+Caro Car Company (commonly known as CCC or 3C) is a fictional automotive retailer created for educational and RAG testing purposes. In this test dataset, CCC is portrayed as a mid-size American car dealership group specializing in new vehicles, certified pre-owned cars, electric vehicles, and full-service maintenance.
+
+HISTORY
+
+1987 — Eleanor Caro opens the first Caro Car showroom on Motorway Drive in Austin, Texas, selling 12 vehicles in the first month.
+
+1995 — CCC expands to Dallas and Houston; introduces the "3C" shorthand logo.
+
+2003 — Launches Caro Certified Pre-Owned (CPO) program with 150-point inspection standard.
+
+2012 — Opens first out-of-state location in Miami, Florida.
+
+2018 — Debuts electric vehicle division with the Caro Volt concept.
+
+2022 — Reaches 8 showroom locations across 6 states; 50,000+ vehicles sold lifetime (fictional milestone).
+
+2026 — Piloting CCC DRIVE vehicle subscription and Seattle expansion.
+
+MISSION
+
+To make car buying transparent, affordable, and enjoyable — whether customers shop in person, online, or through our fleet and subscription programs.
+
+VALUES
+
+- Transparency: Clear pricing, no hidden fees policy on advertised vehicles
+- Community: Local sponsorships of youth sports and EV education programs
+- Innovation: Investing in online sales, EV infrastructure, and internal AI knowledge tools
+- Service: Lifetime customer support through CCC Service Centers
+
+BY THE NUMBERS (2025, FICTIONAL)
+
+- 8 active showroom locations (+ 2 planned)
+- 420 full-time employees
+- 11 vehicle models in 2026 lineup (sedans, SUVs, trucks, EVs, sports)
+- 4.6/5 average customer satisfaction score
+- 15% employee discount on select new models
+
+LEADERSHIP (FICTIONAL)
+
+CEO: Marcus Caro (grandson of founder Eleanor Caro)
+CFO: Priya Sharma
+VP of Sales: James Okafor
+VP of EV Division: Dr. Lin Wei
+Chief Customer Officer: Sofia Reyes
+
+BRANDS & PARTNERSHIPS
+
+CCC sells vehicles under the Caro brand family (Caro Cross, Caro Volt, Caro Hauler, etc.). Financing through Caro Finance Group. Extended warranties through Caro Protection Plans. Charging network: Caro Charge+.
+
+CONTACT
+
+Website: www.carocar.example
+Email: hello@carocar.example
+Phone: 1-800-CCC-AUTO (1-800-222-2886)
+HQ Address: 100 Motorway Drive, Austin, TX 78701
+
+DISCLAIMER
+
+Caro Car Company, CCC, and 3C are fictional entities. All data in this folder is sample content for learning and testing retrieval-augmented generation (RAG) systems.

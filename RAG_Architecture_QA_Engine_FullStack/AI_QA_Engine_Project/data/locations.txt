@@ -1,0 +1,76 @@
+CARO CAR COMPANY (CCC / 3C) — DEALERSHIP LOCATIONS
+Updated: January 2026
+
+Headquarters:
+  Caro Car Company HQ
+  100 Motorway Drive, Austin, TX 78701
+  Phone: 1-800-CCC-AUTO (1-800-222-2886)
+  Hours: Mon–Fri 8:00 AM – 6:00 PM (corporate office)
+
+--- SHOWROOMS & SALES ---
+
+1. Austin Flagship (Store #001)
+   100 Motorway Drive, Austin, TX 78701
+   Phone: (512) 555-0100
+   Hours: Mon–Sat 9:00 AM – 8:00 PM, Sun 11:00 AM – 6:00 PM
+   Specialties: Full CCC lineup, EV center, flagship test track
+
+2. Dallas North (Store #002)
+   4500 Preston Road, Plano, TX 75024
+   Phone: (972) 555-0200
+   Hours: Mon–Sat 9:00 AM – 8:00 PM, Sun 12:00 PM – 5:00 PM
+   Specialties: Trucks and SUVs, fleet sales office
+
+3. Houston West (Store #003)
+   8800 Westheimer Road, Houston, TX 77063
+   Phone: (713) 555-0300
+   Hours: Mon–Sat 9:00 AM – 8:00 PM, Sun 11:00 AM – 6:00 PM
+   Specialties: Sedans, family vehicles, Spanish-speaking staff available
+
+4. San Antonio Central (Store #004)
+   2100 Broadway, San Antonio, TX 78215
+   Phone: (210) 555-0400
+   Hours: Mon–Sat 9:00 AM – 7:00 PM, Sun Closed
+   Specialties: EV models, CCC Certified Pre-Owned center
+
+5. Miami South (Store #005)
+   1200 Biscayne Boulevard, Miami, FL 33132
+   Phone: (305) 555-0500
+   Hours: Mon–Sat 9:00 AM – 8:00 PM, Sun 11:00 AM – 5:00 PM
+   Specialties: Convertibles, luxury trims
+
+6. Phoenix Desert (Store #006)
+   3400 E Camelback Road, Phoenix, AZ 85018
+   Phone: (602) 555-0600
+   Hours: Mon–Sat 9:00 AM – 7:00 PM, Sun 11:00 AM – 5:00 PM
+   Specialties: SUVs, off-road packages, solar charging demo station
+
+7. Denver Mountain (Store #007)
+   1600 S Colorado Boulevard, Denver, CO 80222
+   Phone: (303) 555-0700
+   Hours: Mon–Sat 9:00 AM – 7:00 PM, Sun Closed
+   Specialties: AWD models, winter tire packages
+
+8. Chicago Midwest (Store #008)
+   500 N Michigan Avenue, Chicago, IL 60611
+   Phone: (312) 555-0800
+   Hours: Mon–Sat 9:00 AM – 8:00 PM, Sun 12:00 PM – 5:00 PM
+   Specialties: Compact cars, urban EV models, internship program host
+
+--- SERVICE CENTERS ---
+
+Each showroom location includes an attached CCC Service Center except Chicago (service at Store #008, appointments only).
+
+Austin Service Center — extended hours: Mon–Fri 7:00 AM – 7:00 PM, Sat 8:00 AM – 5:00 PM
+Express oil change available at all Texas locations without appointment.
+
+--- COMING SOON ---
+
+9. Seattle Pacific (Store #009) — Opening Q3 2026
+   800 Pike Street, Seattle, WA 98101 (planned)
+   Focus: Electric vehicle hub for Pacific Northwest
+
+10. Atlanta Southeast (Store #010) — Opening Q4 2026
+    100 Peachtree Street, Atlanta, GA 30303 (planned)
+
+Online: www.carocar.example — browse inventory at all CCC locations
