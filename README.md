@@ -2,7 +2,18 @@
 QA Engine with RAG architecture backend 
 
 
-End-to-End RAG Q&A ApplicationThis repository contains a full-stack Retrieval-Augmented Generation (RAG) system built with a modular architecture. It integrates a React frontend, a Node.js gateway, a FastAPI service, and a PostgreSQL database leveraging pgvector for semantic search.Architecture & Project StructureAI_QA_Engine_Project: Handles document loading, text chunking, embedding generation (text-embedding-3-small with 384 dimensions), and database table creation / insertion into PostgreSQL (pgvector).Fast_API_Project: The core AI microservice handling query embedding generation, cosine similarity vector search against the embeddings table, and answer synthesis using OpenAI's gpt-4o-mini.Node_Backend_Project: The backend gateway routing requests between the frontend and the FastAPI service.React_UI_Project: The user interface (ChatInterface.jsx) allowing users to query documents, view retrieved matches, inspect similarity scores, and review the generated context block.1. Database Setup (pgvector)Ensure PostgreSQL is installed with the pgvector extension enabled. Run the following SQL script to create the embeddings table (without the metadata column):SQL-- Enable pgvector extension
+End-to-End RAG Q&A ApplicationThis repository contains a full-stack Retrieval-Augmented Generation (RAG) system built with a modular architecture. It integrates a React frontend, a Node.js gateway, a FastAPI service, and a PostgreSQL database leveraging pgvector for semantic search.Architecture & Project 
+
+StructureAI_QA_Engine_Project: Handles document loading, text chunking, embedding generation (text-embedding-3-small with 384 dimensions), and database table creation / insertion into PostgreSQL (pgvector).
+
+Fast_API_Project: The core AI microservice handling query embedding generation, cosine similarity vector search against the embeddings table, and answer synthesis using OpenAI's gpt-4o-mini.
+
+Node_Backend_Project: The backend gateway routing requests between the frontend and the FastAPI service.
+
+React_UI_Project: The user interface (ChatInterface.jsx) allowing users to query documents, view retrieved matches, inspect similarity scores, and review the generated context block.1. Database Setup (pgvector)Ensure PostgreSQL is installed with the pgvector extension enabled.
+
+
+Run the following SQL script to create the embeddings table (without the metadata column):SQL-- Enable pgvector extension
 CREATE EXTENSION IF NOT EXISTS vector;
 
 -- Create embeddings table with 384-dimensional vector support
