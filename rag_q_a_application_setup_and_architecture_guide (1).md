@@ -122,7 +122,7 @@ EOF
 
 # Place your .txt, .md, or .csv documents inside AI_QA_Engine_Project/data/
 # Run ingestion script to populate the `embeddings` table
-python ingest.py
+python main.py
 
 cd ..
 ```
